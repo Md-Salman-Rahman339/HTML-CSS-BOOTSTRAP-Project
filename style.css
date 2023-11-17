@@ -119,7 +119,7 @@
     flex-direction: column;
     justify-content: left;
     gap: 8px;
-    margin: 10px; /* Add some margin to separate the cards */
+    margin: 10px; 
 }
 
   
@@ -135,7 +135,7 @@
     font-size: 72px;
     font-style: normal;
     font-weight: 900;
-    line-height: 72px; /* 100% */
+    line-height: 72px; 
     letter-spacing: -0.72px;
 
 }
